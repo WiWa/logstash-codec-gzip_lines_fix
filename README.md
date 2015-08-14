@@ -1,3 +1,6 @@
+#Notice this is not yet working or whatever, and is almost fully ripped from logstash-codec-gzip_lines.  
+<sub>I'll get to it</sub>  
+
 # Logstash Plugin
 
 This is a plugin for [Logstash](https://github.com/elasticsearch/logstash).
